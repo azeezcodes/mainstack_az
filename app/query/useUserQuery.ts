@@ -1,7 +1,7 @@
-"use client";
 import useSWR from "swr";
 
-const API_URL = process.env.NEXT_PUBLIC_SHARED_API_URL;
+//const API_URL = process.env.NEXT_PUBLIC_SHARED_API_URL;
+const API_URL = "https://fe-task-api.mainstack.io";
 
 type UserData = {
    first_name: string;

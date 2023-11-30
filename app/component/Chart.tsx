@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 import { useWalletQuery } from '../query/useWalletQuery'
 import Image from 'next/image'

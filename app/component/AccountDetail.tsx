@@ -1,3 +1,4 @@
+'use client'
 import { AlertCircle } from 'lucide-react'
 import React from 'react'
 import { useWalletQuery } from '../query/useWalletQuery';
